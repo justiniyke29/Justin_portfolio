@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/backgroung.jpg');
+    background-image: url('HeroImage.jpeg');
     background-size:cover;
     position:relative;
 }
@@ -19,4 +19,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+}
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
 }
